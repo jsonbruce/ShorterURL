@@ -1,6 +1,9 @@
-# Shorter URL
+<h3 style="text-align:center;font-weight: 300;" align="center">
+  <img src="128.png" width="160px">
+</h3>
 
-A Chrome Extension to Get Shorter URL of current page.
+
+> ShorterURL is a Chrome Extension to get Shorter URL of current page.
 
 
 # Shorter URL Server
