@@ -17,3 +17,6 @@
 ## v0.1 (2018.01.16)
 - Add to contextMenu.
 - Get shorter URL from `TinyURL` and copy to clipboard automaticly.
+
+# License
+See more details in [LICENSE](LICENCE).
