@@ -6,6 +6,15 @@
 > ShorterURL is a Chrome Extension to get Shorter URL of current page.
 
 
+
+# Usage
+
+1. Download `zip` in [Releases](https://github.com/jsonbruce/ShorterURL/releases) page and unzip to local disk.
+2. Open Chrome and navigate to `chrome://extensions/` , enable the `Developer mode`
+3. Click the `Load unpacked extension` , select the unzipped folder.
+
+
+
 # Shorter URL Server
 
 - TinyURL: https://tinyurl.com
