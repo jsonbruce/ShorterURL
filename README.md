@@ -3,11 +3,19 @@
 </h3>
 
 
-> ShorterURL is a Chrome Extension to get Shorter URL of current page.
+> ShorterURL is a Chrome Extension to get shorter URL of current page.
 
 
 
-# Usage
+# Install
+
+## From Chrome Web Store
+
+[Shorter URL](https://chrome.google.com/webstore/detail/shorter-url/lamgchlkabdimlpbinfhejjoojbkboie)
+
+
+
+## From Offline
 
 1. Download `zip` in [Releases](https://github.com/jsonbruce/ShorterURL/releases) page and unzip to local disk.
 2. Open Chrome and navigate to `chrome://extensions/` , enable the `Developer mode`

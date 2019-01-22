@@ -1,7 +1,7 @@
 {
 	"name": "Shorter URL",
 	"author": "Max Xu",
-	"description": "Get Shorter URL",
+	"description": "Get shorter URL for current website.",
 	"version": "0.1",
 	"permissions": ["tabs", "contextMenus", "webRequest", "webRequestBlocking", "*://*/*"],
 	"background": {
