@@ -31,10 +31,14 @@
 
 
 # Changelog
-## v0.2 (2018.01.18)
+## v0.2.1 (2018.08.30)
+- Add Screenshots and Promotional Tile pictures to Chrome Web Store
+- Change `tags` permistion to `activeTab`
+
+## v0.2.0 (2018.01.18)
 - Add `git.io` URL shorter service for dealing with `github` host.
 
-## v0.1 (2018.01.16)
+## v0.1.0 (2018.01.16)
 - Add to contextMenu.
 - Get shorter URL from `TinyURL` and copy to clipboard automaticly.
 
